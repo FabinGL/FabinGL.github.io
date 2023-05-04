@@ -15,11 +15,11 @@ main:
   - title: "Work Experience"
     url: "/#-work-experience"
 
-  - title: "Projects"
-    url: "/#-projects"
-
   - title: "Invited Talks"
     url: "/#-invited-talks" 
     
   - title: "Services"
     url: "/#-services"
+    
+  - title: "Projects"
+    url: "/#-projects"
