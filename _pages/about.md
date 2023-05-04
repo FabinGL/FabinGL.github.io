@@ -86,7 +86,7 @@ Wei Jiang,Yuxia Fu,**Fabing Lin**,Jing Liu,Choujun Zhan
 
 ---
 
-# 🎖 Honors and Awards
+# 🏆 Honors and Awards
 - *2023.05* &nbsp;🎉 Excellent Bachelor Thesis.
 - *2022 - 2023*  National College Students' Innovative Entrepreneurial Training Plan Program, Network traffic forecasting system based on deep learning, Principal, Leader.
 - *2022* &nbsp;🔥 Software copyright, User Adaptive Preference Recommendation System Based on Graph Neural Network.
