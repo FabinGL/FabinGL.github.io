@@ -79,14 +79,14 @@ Wei Jiang,Yuxia Fu,**Fabing Lin**,Jing Liu,Choujun Zhan
 
 
 # 🎖 Honors and Awards
-- *2023.05*  Excellent Bachelor Thesis.
+- *2023.05* &nbsp;📖 Excellent Bachelor Thesis.
 - *2022 - 2023*  National College Students' Innovative Entrepreneurial Training Plan Program, Network traffic forecasting system based on deep learning, Principal, Leader.
-- *2022*  Software copyright, User Adaptive Preference Recommendation System Based on Graph Neural Network.
+- *2022* &nbsp;🔥 Software copyright, User Adaptive Preference Recommendation System Based on Graph Neural Network.
 - *2022.10*  Third prize in 2022 China Undergraduate Mathematical.
 - *2021 - 2022*  National College Students' Innovative Entrepreneurial Training Plan Program, Based on the graph neural network user adaptive preference recommendation system,participant。
-- *2021 - 2022*  Third prize Scholarship(awarded to the top 21 %)。
+- *2021 - 2022* &nbsp;💻 Third prize Scholarship(awarded to the top 21 %)。
 - *2021.10*  Third prize in 2021 China Undergraduate Mathematical  Contest in Modeling
-- *2020*  Software copyright, Data Analysis and Prediction System of Chinese Movie Box Office Based on Machine
+- *2020* &nbsp;🎉 Software copyright, Data Analysis and Prediction System of Chinese Movie Box Office Based on Machine
 
 
 # 📖 Educations
