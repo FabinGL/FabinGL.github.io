@@ -36,7 +36,7 @@ You can find my CV here: [Fabing's Curriculum Vitae](images/LFB_Academic_en_2023
  
 # 📝 Publications
 
-## Journal Paper
+## Journal Papers
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NCAA</div><img src='images/Em-BLS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
@@ -54,7 +54,7 @@ Choujun Zhan,Wei Jiang,**Fabing Lin**, Shuntao Zhang, Bing Li
 
 ---
 
-## Conference Paper
+## Conference Papers
 
 - [Broad learning system based on Savitzky–Golay filter and variational mode decomposition for short-term load forecasting](https://ieeexplore.ieee.org/abstract/document/9970794),Hu Min,**Fabing Lin**,Kaihan Wu,Junhui Lu,Zhengyang Hou,Choujun Zhan,[IEEE International Symposium on Product Compliance Engineering-Asia.](https://dl2link.com/ISPCE-AS2022/)
 
