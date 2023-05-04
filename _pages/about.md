@@ -50,6 +50,8 @@ Choujun Zhan,Wei Jiang,**Fabing Lin**, Shuntao Zhang, Bing Li
 ## Conference Paper
 
 - [Broad learning system based on Savitzky–Golay filter and variational mode decomposition for short-term load forecasting](https://ieeexplore.ieee.org/abstract/document/9970794),Hu Min,**Fabing Lin**,Kaihan Wu,Junhui Lu,Zhengyang Hou,Choujun Zhan,[IEEE International Symposium on Product Compliance Engineering-Asia.](https://dl2link.com/ISPCE-AS2022/)
+
+
 - <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISCAS</div><img src='images/VMD-LSTM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
@@ -59,6 +61,19 @@ Kaihan Wu,Junhui Lu,**Fabing Lin**,Yao Huang,Choujun Zhan
 
 [**Project**](None) <strong>International Symposium on Circuits and Systems<span class='show_paper_citations' data='wnSqZjMAAAAJ&hl=zh-CN'></span></strong>
 - A Study on Network Traffic Communication Prediction.
+</div>
+</div>
+
+
+- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NCAA</div><img src='images/EMD-CNNLSTM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[Empirical Mode Decomposition Based Deep Neural Networks for AQI Forecasting.](https://link.springer.com/chapter/10.1007/978-981-16-5188-5_54)
+
+Wei Jiang,Yuxia Fu,**Fabing Lin**,Jing Liu,Choujun Zhan
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=wnSqZjMAAAAJ&citation_for_view=wnSqZjMAAAAJ:UeHWp8X0CEIC) <strong>Neural Computing and Applications<span class='show_paper_citations' data='wnSqZjMAAAAJ&hl=zh-CN'></span></strong>
+- A research in the interdisciplinary field of deep learning and atmospheric science.
 </div>
 </div>
 
