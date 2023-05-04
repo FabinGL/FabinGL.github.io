@@ -101,13 +101,12 @@ Wei Jiang,Yuxia Fu,**Fabing Lin**,Jing Liu,Choujun Zhan
 - *2023.04-Present*, &nbsp;☁️ [3D-space Co., Ltd.](http://xn--ehq269cgqo6ge.xn--fiqs8s/index.php?sn=solution&fid=51) conducts interdisciplinary research on atmospheric science and machine learning.
 
 
----
-
 # ✏️ Projects
 
 - Nov 2021,Best Volunteer Team of [IEEE International Symposium on Product Compliance Engineering-Asia (ISPCE-AS 2022)](https://dl2link.com/ISPCE-AS2022)
 - ✏️Aug 2021, Volunteer of [International Conference on Neural Computing for Advanced Applications 2021 (NCAA 2021)](https://dl2link.com/ncaa2021/)
 - Mar 2019 - Present, Research Assistant of [Research Institute of Big Data and Artificail Intelligence (RIBDAI)](https://www.labxing.com/gnfc-ai-lab), Nanfang College of Sun Yat-sen University in Guangzhou
+
 ---
 
 
