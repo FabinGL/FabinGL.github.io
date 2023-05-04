@@ -30,7 +30,7 @@ I am a senior undergrad student [Nanfang College of Sun Yat-sen University](http
 # 📝 Publications
 
 ## Journal Paper
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neural Computing and Applications</div><img src='images/Em-BLS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NCAA</div><img src='images/Em-BLS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [A decomposition-ensemble broad learning system for AQI forecasting.](https://link.springer.com/article/10.1007/s00521-022-07448-2)
@@ -49,7 +49,7 @@ Choujun Zhan,Wei Jiang,**Fabing Lin**, Shuntao Zhang, Bing Li
 
 ## Conference Paper
 
-- <td bgcolor=blue><font color= #DCDCDC>ISPCE-AS 2022</font></td>[Broad learning system based on Savitzky–Golay filter and variational mode decomposition for short-term load forecasting](https://ieeexplore.ieee.org/abstract/document/9970794),Hu Min,**Fabing Lin**,Kaihan Wu,Junhui Lu,Zhengyang Hou,Choujun Zhan,[IEEE International Symposium on Product Compliance Engineering-Asia.](https://dl2link.com/ISPCE-AS2022/)
+- <div class="badge">ISPCE-AS 2022</div>[Broad learning system based on Savitzky–Golay filter and variational mode decomposition for short-term load forecasting](https://ieeexplore.ieee.org/abstract/document/9970794),Hu Min,**Fabing Lin**,Kaihan Wu,Junhui Lu,Zhengyang Hou,Choujun Zhan,[IEEE International Symposium on Product Compliance Engineering-Asia.](https://dl2link.com/ISPCE-AS2022/)
 
 
 # 🎖 Honors and Awards
