@@ -45,9 +45,11 @@ Choujun Zhan,Wei Jiang,**Fabing Lin**, Shuntao Zhang, Bing Li
 
 - Analysis of the main influencing factors affecting the transmission of the COVID-19 pandemic.(**Contributing**)[IEEE journal of Biomedical and Health Informatics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020),Choujun Zhan,**Fabing Lin**,Kaihan Wu,Tse.K,**[IEEE journal of Biomedical and Health Informatics.](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020)**
 
+---
+
 ## Conference Paper
 
-- <table><tr><td bgcolor=blue>ISPCE-AS 2022</td></tr></table>[Broad learning system based on Savitzky–Golay filter and variational mode decomposition for short-term load forecasting](https://ieeexplore.ieee.org/abstract/document/9970794),Hu Min,**Fabing Lin**,Kaihan Wu,Junhui Lu,Zhengyang Hou,Choujun Zhan,[IEEE International Symposium on Product Compliance Engineering-Asia.](https://dl2link.com/ISPCE-AS2022/)
+- <td bgcolor=blue><font color= #DCDCDC>ISPCE-AS 2022</font></td>[Broad learning system based on Savitzky–Golay filter and variational mode decomposition for short-term load forecasting](https://ieeexplore.ieee.org/abstract/document/9970794),Hu Min,**Fabing Lin**,Kaihan Wu,Junhui Lu,Zhengyang Hou,Choujun Zhan,[IEEE International Symposium on Product Compliance Engineering-Asia.](https://dl2link.com/ISPCE-AS2022/)
 
 
 # 🎖 Honors and Awards
