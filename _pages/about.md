@@ -98,7 +98,8 @@ Wei Jiang,Yuxia Fu,**Fabing Lin**,Jing Liu,Choujun Zhan
 
 
 # 📖 Work Experience
-- *2023.04-Present*, &nbsp;☁️ [3D-space Co., Ltd.](http://xn--ehq269cgqo6ge.xn--fiqs8s/index.php?sn=solution&fid=51) conducts interdisciplinary research on atmospheric science and machine learning
+- *2023.04-Present*, &nbsp;☁️ [3D-space Co., Ltd.](http://xn--ehq269cgqo6ge.xn--fiqs8s/index.php?sn=solution&fid=51) conducts interdisciplinary research on atmospheric science and machine learning.
+
 
 ---
 
@@ -123,7 +124,7 @@ Based on an interpretable machine learning model driven by big data, a correlati
 1. Using machine learning and integrated learning models, a total of 10 models are used to model and analyze multi-factor data and epidemic data, aiming at different A total of more than 100 machine learning combinations have been constructed in the application scenarios, and more than 10,000 hyperparameter combination optimizations have been tried for each type of machine learning.A general model and seventy-six precise models were obtained, and the R-Squared of the model reached 0.9.
 2. The machine learning model constructed in a variety of application scenarios is based on SHAP (SHapley Additive exPlanations) to build an interpretable learning analysis system, which quantifies the impact of different factors on the spread of the epidemic and calculates the impact of multiple factors on the spread of the epidemic.
 
-### Glomerular Filtration Rate Analysis
+### Glomerular Filtration Rate Analysis.
 
 #### 📄Research significance and aim:
 
