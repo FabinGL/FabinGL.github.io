@@ -53,7 +53,7 @@ Choujun Zhan,Wei Jiang,**Fabing Lin**, Shuntao Zhang, Bing Li
 - <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISCAS</div><img src='images/VMD-LSTM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-A Realistic Network Traffic Forecasting Method Based on VMD and LSTM Network.International Symposium on Circuits and Systems.2)
+A Realistic Network Traffic Forecasting Method Based on VMD and LSTM Network.
 
 Kaihan Wu,Junhui Lu,**Fabing Lin**,Yao Huang,Choujun Zhan
 
