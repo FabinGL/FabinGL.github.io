@@ -38,7 +38,7 @@ I am a senior undergrad student [Nanfang College of Sun Yat-sen University](http
 Choujun Zhan,Wei Jiang,**Fabing Lin**, Shuntao Zhang, Bing Li
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=wnSqZjMAAAAJ&citation_for_view=wnSqZjMAAAAJ:2osOgNQ5qMEC) <strong>Neural Computing and Applications<span class='show_paper_citations' data='wnSqZjMAAAAJ&hl=zh-CN'></span></strong>
-- A Research Paper at the Intersection of Atmospheric Science and Machine Learning.
+- A Research Paper at the Intersection of Atmospheric Science and Machine Learning.\
 </div>
 </div>
 
