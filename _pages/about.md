@@ -30,14 +30,14 @@ I am a senior undergrad student [Nanfang College of Sun Yat-sen University](http
 # 📝 Publications
 
 ## Journal Paper
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/Em-BLS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/Em-BLS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [A decomposition-ensemble broad learning system for AQI forecasting.](https://link.springer.com/article/10.1007/s00521-022-07448-2)[Neural Computing and Applications,1-12.]
 
 Choujun Zhan,Wei Jiang,**Fabing Lin**, Shuntao Zhang, Bing Li
 
-[**Project**](https://scholar.google.com/citations?user=wnSqZjMAAAAJ&hl=zh-CN) <strong><span class='show_paper_citations' data='wnSqZjMAAAAJ&hl=zh-CN'></span></strong>
+[**Project**](https://scholar.google.com/citations?user=wnSqZjMAAAAJ&hl=zh-CN) <strong>Neural Computing and Applications<span class='show_paper_citations' data='wnSqZjMAAAAJ&hl=zh-CN'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
