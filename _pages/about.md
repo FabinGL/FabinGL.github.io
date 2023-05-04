@@ -30,7 +30,7 @@ I am a senior undergrad student [Nanfang College of Sun Yat-sen University](http
 # 📝 Publications
 
 ## Journal Paper
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/Em-BLS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neural Computing and Applications</div><img src='images/Em-BLS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [A decomposition-ensemble broad learning system for AQI forecasting.](https://link.springer.com/article/10.1007/s00521-022-07448-2)
@@ -38,12 +38,17 @@ I am a senior undergrad student [Nanfang College of Sun Yat-sen University](http
 Choujun Zhan,Wei Jiang,**Fabing Lin**, Shuntao Zhang, Bing Li
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=wnSqZjMAAAAJ&citation_for_view=wnSqZjMAAAAJ:2osOgNQ5qMEC) <strong>Neural Computing and Applications<span class='show_paper_citations' data='wnSqZjMAAAAJ&hl=zh-CN'></span></strong>
-+ A Research Paper at the Intersection of Atmospheric Science and Machine Learning.
+- A Research Paper at the Intersection of Atmospheric Science and Machine Learning.
 </div>
 </div>
 
 
-- Analysis of the main influencing factors affecting the transmission of the COVID-19 pandemic.(**Contributing**)[IEEE journal of Biomedical and Health Informatics.](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020),Choujun Zhang,**Fabing Lin**,Kaihan Wu,Tse.K,**[IEEE journal of Biomedical and Health Informatics.](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020)**
+- Analysis of the main influencing factors affecting the transmission of the COVID-19 pandemic.(**Contributing**)[IEEE journal of Biomedical and Health Informatics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020),Choujun Zhan,**Fabing Lin**,Kaihan Wu,Tse.K,**[IEEE journal of Biomedical and Health Informatics.](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020)**
+
+## Conference Paper
+
+- <table><tr><td bgcolor=blue>ISPCE-AS 2022</td></tr></table>[Broad learning system based on Savitzky–Golay filter and variational mode decomposition for short-term load forecasting](https://ieeexplore.ieee.org/abstract/document/9970794),Hu Min,**Fabing Lin**,Kaihan Wu,Junhui Lu,Zhengyang Hou,Choujun Zhan,[IEEE International Symposium on Product Compliance Engineering-Asia.](https://dl2link.com/ISPCE-AS2022/)
+
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
