@@ -42,7 +42,7 @@ Choujun Zhan,Wei Jiang,**Fabing Lin**, Shuntao Zhang, Bing Li
 </div>
 </div>
 
-- Analysis of the main influencing factors affecting the transmission of the COVID-19 pandemic.[IEEE journal of Biomedical and Health Informatics.](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020),Choujun Zhang,**Fabing Lin**,Kaihan Wu,Tse.K,**[IEEE journal of Biomedical and Health Informatics.](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020)**
+- Analysis of the main influencing factors affecting the transmission of the COVID-19 pandemic.(**Contributing**)[IEEE journal of Biomedical and Health Informatics.](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020),Choujun Zhang,**Fabing Lin**,Kaihan Wu,Tse.K,**[IEEE journal of Biomedical and Health Informatics.](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020)**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
