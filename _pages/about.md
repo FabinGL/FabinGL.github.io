@@ -100,7 +100,7 @@ Wei Jiang,Yuxia Fu,**Fabing Lin**,Jing Liu,Choujun Zhan
 # 📖 Work Experience
 - *2023.04-Present*, &nbsp;☁️ [3D-space Co., Ltd.](http://xn--ehq269cgqo6ge.xn--fiqs8s/index.php?sn=solution&fid=51) conducts interdisciplinary research on atmospheric science and machine learning
 
-# ✏️ Research Projects
+#  Research Projects
 
 ## 💬Interested research direction
 I am interested in **Time-series**, **Machine learning**, **Deep learning**,**Causal analysis**. My current focuses include:
