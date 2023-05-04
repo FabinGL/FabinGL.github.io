@@ -32,6 +32,8 @@ You can find my CV here: [Fabing's Curriculum Vitae](images/LFB_Academic_en_2023
 - *2022.11*: &nbsp;📖 A conference paper were published on [2022 IEEE International Symposium on Product Compliance Engineering-Asia(ISPCE-AS)](https://dl2link.com/ISPCE-AS2022/) 
 - *2021.08*: &nbsp; A conference paper were published on 2021 International Conference on Neural Computing for Advanced Applications (NCAA)
 
+--- 
+ 
 # 📝 Publications
 
 ## Journal Paper
@@ -82,6 +84,7 @@ Wei Jiang,Yuxia Fu,**Fabing Lin**,Jing Liu,Choujun Zhan
 </div>
 </div>
 
+---
 
 # 🎖 Honors and Awards
 - *2023.05* &nbsp;🎉 Excellent Bachelor Thesis.
@@ -98,7 +101,7 @@ Wei Jiang,Yuxia Fu,**Fabing Lin**,Jing Liu,Choujun Zhan
 - *2023.04-Present*, &nbsp;☁️ [3D-space Co., Ltd.](http://xn--ehq269cgqo6ge.xn--fiqs8s/index.php?sn=solution&fid=51) conducts interdisciplinary research on atmospheric science and machine learning
 
 
-
+---
 # ✏️ Projects
 I am interested in **Time-series**, **Machine learning**, **Deep learning**,**Causal analysis**. My current focuses include:
 - Time series prediction modeling.
@@ -130,6 +133,8 @@ This project cooperates with the Third Affiliated Hospital of Sun Yat-sen Univer
 1. In cooperation with the Third Affiliated Hospital of Sun Yat-sen University to study glomerular filtration rate (mGFR) modeling, we collected and sorted out the physical condition and various  index data of more than 3,000 patients. Organize it into a usable dataset.
 2. Modeling using machine learning and ensemble learning to predict eGFR (predicted mGFR), and The New England Journal of Medicine (The New England Journal of Medicine, NEJM)’s same subject research "New Creatinine- and Cystatin C–Based Equations to Compared with "Estimate GFR without Race", our method has higher model accuracy in the patient data of Sun Yat-Sen Third Hospital. In actual application scenarios, it can enable patients to diagnose diseases with the least cost.
 
+---
+
 ## 🌱2. Time Series Forecasting
 
 ### A decomposition-ensemble broad learning system for AQI forecasting.
@@ -155,7 +160,7 @@ The new crown epidemic has dealt a huge blow to the economy of the world, especi
 2. An error correction model for time-invariant systems is proposed to fit the data with high precision, which can be applied to various scenarios
 
 
-
+---
 
 
 # 💬 Invited Talks
