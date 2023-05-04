@@ -49,7 +49,7 @@ Choujun Zhan,Wei Jiang,**Fabing Lin**, Shuntao Zhang, Bing Li
 
 ## Conference Paper
 
-- [Broad learning system based on Savitzky–Golay filter and variational mode decomposition for short-term load forecasting](https://ieeexplore.ieee.org/abstract/document/9970794),Hu Min,**Fabing Lin**,Kaihan Wu,Junhui Lu,Zhengyang Hou,Choujun Zhan,[IEEE International Symposium on Product Compliance Engineering-Asia.](https://dl2link.com/ISPCE-AS2022/)<span class="badge">ISPCE-AS 2022</span>
+- [Broad learning system based on Savitzky–Golay filter and variational mode decomposition for short-term load forecasting](https://ieeexplore.ieee.org/abstract/document/9970794),Hu Min,**Fabing Lin**,Kaihan Wu,Junhui Lu,Zhengyang Hou,Choujun Zhan,[IEEE International Symposium on Product Compliance Engineering-Asia.](https://dl2link.com/ISPCE-AS2022/)
 - <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISCAS</div><img src='images/VMD-LSTM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
