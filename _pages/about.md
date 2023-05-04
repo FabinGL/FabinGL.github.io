@@ -33,7 +33,7 @@ I am a senior undergrad student [Nanfang College of Sun Yat-sen University](http
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/Em-BLS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-[A decomposition-ensemble broad learning system for AQI forecasting.](https://link.springer.com/article/10.1007/s00521-022-07448-2)[Neural Computing and Applications,1-12.]
+[A decomposition-ensemble broad learning system for AQI forecasting.](https://link.springer.com/article/10.1007/s00521-022-07448-2)
 
 Choujun Zhan,Wei Jiang,**Fabing Lin**, Shuntao Zhang, Bing Li
 
