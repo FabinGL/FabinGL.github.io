@@ -38,7 +38,6 @@ I am a senior undergrad student [Nanfang College of Sun Yat-sen University](http
 Choujun Zhan,Wei Jiang,**Fabing Lin**, Shuntao Zhang, Bing Li
 
 [**Project**](https://scholar.google.com/citations?user=wnSqZjMAAAAJ&hl=zh-CN) <strong>Neural Computing and Applications<span class='show_paper_citations' data='wnSqZjMAAAAJ&hl=zh-CN'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
 
