@@ -101,21 +101,9 @@ Wei Jiang,Yuxia Fu,**Fabing Lin**,Jing Liu,Choujun Zhan
 - *2023.04-Present*, &nbsp;☁️ [3D-space Co., Ltd.](http://xn--ehq269cgqo6ge.xn--fiqs8s/index.php?sn=solution&fid=51) conducts interdisciplinary research on atmospheric science and machine learning.
 
 
-
 ---
 
-
-# 💬 Invited Talks
-- *2022.11*, ["Broad learning system based on Savitzky–Golay filter and variational mode decomposition for short-term load forecasting."](https://ieeexplore.ieee.org/abstract/document/9970794) at [ISPCE-AS 2022](https://dl2link.com/ISPCE-AS2022/")
-
-# 📄 Services
-
-- Nov 2021,Best Volunteer Team of [IEEE International Symposium on Product Compliance Engineering-Asia (ISPCE-AS 2022)](https://dl2link.com/ISPCE-AS2022)
-- ✏️Aug 2021, Volunteer of [International Conference on Neural Computing for Advanced Applications 2021 (NCAA 2021)](https://dl2link.com/ncaa2021/)
-- Mar 2019 - Present, Research Assistant of [Research Institute of Big Data and Artificail Intelligence (RIBDAI)](https://www.labxing.com/gnfc-ai-lab), Nanfang College of Sun Yat-sen University in Guangzhou
-
-
-# ✏️ Projects
+# ✏️ Research
 
 I am interested in **Time-series**, **Machine learning**, **Deep learning**,**Causal analysis**. My current focuses include:
 - Time series prediction modeling.
@@ -171,4 +159,17 @@ The new crown epidemic has dealt a huge blow to the economy of the world, especi
 
 1. Using web crawler technology to collect electricity data, oil price data, new crown epidemic data and night light intensity data of cities such as New York City in the United States from 2017 to the present, analyze and integrate them, and build a dataset.
 2. An error correction model for time-invariant systems is proposed to fit the data with high precision, which can be applied to various scenarios
+
+
+---
+
+
+# 💬 Invited Talks
+- *2022.11*, ["Broad learning system based on Savitzky–Golay filter and variational mode decomposition for short-term load forecasting."](https://ieeexplore.ieee.org/abstract/document/9970794) at [ISPCE-AS 2022](https://dl2link.com/ISPCE-AS2022/")
+
+# 📄 Services
+
+- Nov 2021,Best Volunteer Team of [IEEE International Symposium on Product Compliance Engineering-Asia (ISPCE-AS 2022)](https://dl2link.com/ISPCE-AS2022)
+- ✏️Aug 2021, Volunteer of [International Conference on Neural Computing for Advanced Applications 2021 (NCAA 2021)](https://dl2link.com/ncaa2021/)
+- Mar 2019 - Present, Research Assistant of [Research Institute of Big Data and Artificail Intelligence (RIBDAI)](https://www.labxing.com/gnfc-ai-lab), Nanfang College of Sun Yat-sen University in Guangzhou
 
