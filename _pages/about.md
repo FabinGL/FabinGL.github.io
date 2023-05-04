@@ -102,7 +102,9 @@ Wei Jiang,Yuxia Fu,**Fabing Lin**,Jing Liu,Choujun Zhan
 
 ---
 
+
 # ✏️ Projects
+
 
 I am interested in **Time-series**, **Machine learning**, **Deep learning**,**Causal analysis**. My current focuses include:
 - Time series prediction modeling.
