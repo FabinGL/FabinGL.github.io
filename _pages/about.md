@@ -135,7 +135,6 @@ This project cooperates with the Third Affiliated Hospital of Sun Yat-sen Univer
 1. In cooperation with the Third Affiliated Hospital of Sun Yat-sen University to study glomerular filtration rate (mGFR) modeling, we collected and sorted out the physical condition and various  index data of more than 3,000 patients. Organize it into a usable dataset.
 2. Modeling using machine learning and ensemble learning to predict eGFR (predicted mGFR), and The New England Journal of Medicine (The New England Journal of Medicine, NEJM)’s same subject research "New Creatinine- and Cystatin C–Based Equations to Compared with "Estimate GFR without Race", our method has higher model accuracy in the patient data of Sun Yat-Sen Third Hospital. In actual application scenarios, it can enable patients to diagnose diseases with the least cost.
 
----
 
 ## 🌱2. Time Series Forecasting
 
