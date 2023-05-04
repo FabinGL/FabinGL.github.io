@@ -19,7 +19,7 @@ redirect_from:
 
 # 🏃 About me
 
-I am a senior undergrad student [Nanfang College of Sun Yat-sen University](https://www.nfu.edu.cn/) in Guangzhou, China. My majoy is Intelligence Science and Technology. I was advised by [Prof. Choujun Zhan](https://scholar.google.com/citations?user=CQjEUkAAAAAJ) in [Research Institute of Big Data and Artificial Intelligence (RIBDAI)](https://www.labxing.com/gnfc-ai-lab). Currently i am in [3D-space Co., Ltd](http://xn--ehq269cgqo6ge.xn--fiqs8s/index.php?sn=solution&fid=51) conducts interdisciplinary research on atmospheric science and machine learning.My current research focuses on **time series analysis** . I work on applying artificial intelligence to industry and public health. I am looking for a **RA/PHD** position starting in the 2024 fall. Please feel free to contact me by email. for details, please view my curriculum vitae.
+I am a senior undergrad student [Nanfang College of Sun Yat-sen University](https://www.nfu.edu.cn/) in Guangzhou, China. My majoy is Intelligence Science and Technology. I was advised by [Prof. Choujun Zhan](https://scholar.google.com/citations?user=CQjEUkAAAAAJ) in [Research Institute of Big Data and Artificial Intelligence (RIBDAI)](https://www.labxing.com/gnfc-ai-lab). Currently i am in [3D-space Co., Ltd.](http://xn--ehq269cgqo6ge.xn--fiqs8s/index.php?sn=solution&fid=51) conducts interdisciplinary research on atmospheric science and machine learning.My current research focuses on **time series analysis** . I work on applying artificial intelligence to industry and public health. I am looking for a **RA/PHD** position starting in the 2024 fall. Please feel free to contact me by email. for details, please view my curriculum vitae.
 
 
 You can find my CV here: [Fabing's Curriculum Vitae](images/LFB_Academic_en_20230502.pdf).
@@ -27,7 +27,7 @@ You can find my CV here: [Fabing's Curriculum Vitae](images/LFB_Academic_en_2023
 
 # 🔥 News
 - *2023.05*: &nbsp;🎉 A conference paper were published on [2023 IEEE International Symposium on Circuits and Systems (ISCAS)](https://iscas2023.org/)
-- *2023.04*: &nbsp; 3D-space Co., Ltd. conducts interdisciplinary research on atmospheric science and machine learning.Practice
+- *2023.04*: &nbsp; [3D-space Co., Ltd.](http://xn--ehq269cgqo6ge.xn--fiqs8s/index.php?sn=solution&fid=51) conducts interdisciplinary research on atmospheric science and machine learning.Practice
 - *2022.11*: &nbsp;🔥 A Journal Paper were published in the Journal [Neural Computing and Applications](https://www.springer.com/journal/521)
 - *2022.11*: &nbsp;📖 A conference paper were published on [2022 IEEE International Symposium on Product Compliance Engineering-Asia(ISPCE-AS)](https://dl2link.com/ISPCE-AS2022/) 
 - *2021.08*: &nbsp; A conference paper were published on 2021 International Conference on Neural Computing for Advanced Applications (NCAA)
