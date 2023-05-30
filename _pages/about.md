@@ -19,7 +19,7 @@ redirect_from:
 
 # 🏃 About me
 
-I am a senior undergrad student [Nanfang College of Sun Yat-sen University](https://www.nfu.edu.cn/) in Guangzhou, China. My majoy is Intelligence Science and Technology. I was advised by [Prof. Choujun Zhan](https://scholar.google.com/citations?user=CQjEUkAAAAAJ) in [Research Institute of Big Data and Artificial Intelligence (RIBDAI)](https://www.labxing.com/gnfc-ai-lab). Currently i am in [3D-space Co., Ltd.](http://xn--ehq269cgqo6ge.xn--fiqs8s/index.php?sn=solution&fid=51) conducts interdisciplinary research on atmospheric science and machine learning.My current research focuses on **time series analysis** . I work on applying artificial intelligence to industry and public health. I am looking for a **RA/PHD** position starting in the 2024 fall. Please feel free to contact me by email. for details, please view my curriculum vitae.
+I am a senior undergrad student [Nanfang College of Sun Yat-sen University](https://www.nfu.edu.cn/) in Guangzhou, China. My majoy is Intelligence Science and Technology. I was advised by [Prof. Choujun Zhan](https://scholar.google.com/citations?user=CQjEUkAAAAAJ) in [Research Institute of Big Data and Artificial Intelligence (RIBDAI)](https://www.labxing.com/gnfc-ai-lab).I have conducted interdisciplinary research in atmospheric science and machine learning at [3D Space Ltd.] (http://xn--ehq269cgqo6ge.xn--fiqs8s/index.php?sn=solution&fid=51).My current research focuses on **time series analysis** . I work on applying artificial intelligence to industry and public health. I am looking for a **RA/PHD** position starting in the 2024 fall. Please feel free to contact me by email. for details, please view my curriculum vitae.
 
 
 You can find my CV here: [Fabing's Curriculum Vitae](images/LFB_Academic_en_20230502.pdf).
@@ -98,7 +98,7 @@ Wei Jiang,Yuxia Fu,**Fabing Lin**,Jing Liu,Choujun Zhan
 
 
 # 📖 Work Experience
-- *2023.04-Present*, &nbsp;☁️ [3D-space Co., Ltd.](http://xn--ehq269cgqo6ge.xn--fiqs8s/index.php?sn=solution&fid=51) conducts interdisciplinary research on atmospheric science and machine learning.
+- *2023.04-2023.06*, &nbsp;☁️ [3D-space Co., Ltd.](http://xn--ehq269cgqo6ge.xn--fiqs8s/index.php?sn=solution&fid=51) conducts interdisciplinary research on atmospheric science and machine learning.
 
 
 ---
