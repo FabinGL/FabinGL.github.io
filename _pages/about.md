@@ -26,6 +26,7 @@ You can find my CV here: [Fabing's Curriculum Vitae](images/LFB_Academic_en_2023
 
 
 # 🔥 News
+- *2023.06*: &nbsp;📖 Employed at [China Mobile Communications Group Design Institute Co., Ltd. Fujian Branch.](http://cmri.chinamobile.com/)
 - *2023.05*: &nbsp;🎉 A conference paper were published on [2023 IEEE International Symposium on Circuits and Systems (ISCAS)](https://iscas2023.org/)
 - *2023.04*: &nbsp; [3D-space Co., Ltd.](http://xn--ehq269cgqo6ge.xn--fiqs8s/index.php?sn=solution&fid=51) conducts interdisciplinary research on atmospheric science and machine learning.Practice
 - *2022.11*: &nbsp;🔥 A Journal Paper were published in the Journal [Neural Computing and Applications](https://www.springer.com/journal/521)
@@ -98,6 +99,7 @@ Wei Jiang,Yuxia Fu,**Fabing Lin**,Jing Liu,Choujun Zhan
 
 
 # 📖 Work Experience
+- *2023.04-2023.06*, &nbsp;🎉 Employed at [China Mobile Communications Group Design Institute Co., Ltd. Fujian Branch.](http://cmri.chinamobile.com/)
 - *2023.04-2023.06*, &nbsp;☁️ [3D-space Co., Ltd.](http://xn--ehq269cgqo6ge.xn--fiqs8s/index.php?sn=solution&fid=51) conducts interdisciplinary research on atmospheric science and machine learning.
 
 
