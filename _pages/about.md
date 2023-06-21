@@ -99,7 +99,7 @@ Wei Jiang,Yuxia Fu,**Fabing Lin**,Jing Liu,Choujun Zhan
 
 
 # 📖 Work Experience
-- *2023.04-2023.06*, &nbsp;🎉 Employed at [China Mobile Communications Group Design Institute Co., Ltd. Fujian Branch.](http://cmri.chinamobile.com/)
+- *2023.06-Present*, &nbsp;🎉 Employed at [China Mobile Communications Group Design Institute Co., Ltd. Fujian Branch.](http://cmri.chinamobile.com/)
 - *2023.04-2023.06*, &nbsp;☁️ [3D-space Co., Ltd.](http://xn--ehq269cgqo6ge.xn--fiqs8s/index.php?sn=solution&fid=51) conducts interdisciplinary research on atmospheric science and machine learning.
 
 
