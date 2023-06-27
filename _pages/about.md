@@ -19,7 +19,7 @@ redirect_from:
 
 # 🏃 About me
 
-I graduated from [Nanfang College of Sun Yat-sen University](https://www.nfu.edu.cn/) in 2023. My majoy is Intelligence Science and Technology. I was advised by [Prof. Choujun Zhan](https://scholar.google.com/citations?user=CQjEUkAAAAAJ) in [Research Institute of Big Data and Artificial Intelligence (RIBDAI)](https://www.labxing.com/gnfc-ai-lab).I am currently employed at [China Mobile Communications Group Design Institute Co., Ltd. Fujian Branch.](http://cmri.chinamobile.com/)📖My current research focuses on **time series analysis** . I work on applying artificial intelligence to industry and public health. I am looking for a **RA/PHD** position starting in the 2024 fall. Please feel free to contact me by email. for details, please view my curriculum vitae.
+I graduated from [Nanfang College of Sun Yat-sen University](https://www.nfu.edu.cn/) in 2023. My majoy is Intelligence Science and Technology. I was advised by [Prof. Choujun Zhan](https://scholar.google.com/citations?user=CQjEUkAAAAAJ) in [Research Institute of Big Data and Artificial Intelligence (RIBDAI)](https://www.labxing.com/gnfc-ai-lab).I am currently employed at [China Mobile Communications Group Design Institute Co., Ltd. Fujian Branch.](http://cmri.chinamobile.com/)My current research focuses on **time series analysis** . I work on applying artificial intelligence to industry and public health. I am looking for a **RA/PHD** position starting in the 2024 fall. Please feel free to contact me by email. for details, please view my curriculum vitae.
 
 
 You can find my CV here: [Fabing's Curriculum Vitae](images/LFB_Academic_en_20230502.pdf).
