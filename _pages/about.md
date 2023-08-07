@@ -51,7 +51,7 @@ Choujun Zhan,Wei Jiang,**Fabing Lin**, Shuntao Zhang, Bing Li
 </div>
 
 
-- Analysis of the main influencing factors affecting the transmission of the COVID-19 pandemic.(**Contributing**)[IEEE journal of Biomedical and Health Informatics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020),Choujun Zhan,**Fabing Lin**,Kaihan Wu,Tse.K,**[IEEE journal of Biomedical and Health Informatics.](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020)**
+-A Multifactorial Analysis of Regional Disparities Influencing the Propagation Dynamics of COVID-19(**Contributing**)[IEEE journal of Biomedical and Health Informatics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020),Choujun Zhan,**Fabing Lin**,Kaihan Wu,Tse.K,**[IEEE journal of Biomedical and Health Informatics.](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020)**
 
 ---
 
@@ -63,7 +63,7 @@ Choujun Zhan,Wei Jiang,**Fabing Lin**, Shuntao Zhang, Bing Li
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISCAS</div><img src='images/VMD-LSTM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-A Realistic Network Traffic Forecasting Method Based on VMD and LSTM Network.
+[A Realistic Network Traffic Forecasting Method Based on VMD and LSTM Network.](https://ieeexplore.ieee.org/abstract/document/10182143)
 
 Kaihan Wu,Junhui Lu,**Fabing Lin**,Yao Huang,Choujun Zhan
 
