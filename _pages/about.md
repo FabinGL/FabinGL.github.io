@@ -51,7 +51,7 @@ Choujun Zhan,Wei Jiang,**Fabing Lin**, Shuntao Zhang, Bing Li
 </div>
 
 
--A Multifactorial Analysis of Regional Disparities Influencing the Propagation Dynamics of COVID-19(**Contributing**)[IEEE journal of Biomedical and Health Informatics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020),Choujun Zhan,**Fabing Lin**,Kaihan Wu,Tse.K,**[IEEE journal of Biomedical and Health Informatics.](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020)**
+-Multifactorial Analysis of Regional Disparities Influencing the Propagation Dynamics of COVID-19 Pandemic(**Contributing**)[Sustainable Cities and Society](https://www.sciencedirect.com/journal/sustainable-cities-and-society),Choujun Zhan,**Fabing Lin**,Kaihan Wu,Junhui Lu,Tse.K,**[Sustainable Cities and Society](https://www.sciencedirect.com/journal/sustainable-cities-and-society)**
 
 ---
 
@@ -67,7 +67,7 @@ Choujun Zhan,Wei Jiang,**Fabing Lin**, Shuntao Zhang, Bing Li
 
 Kaihan Wu,Junhui Lu,**Fabing Lin**,Yao Huang,Choujun Zhan
 
-[**Project**](None) <strong>International Symposium on Circuits and Systems<span class='show_paper_citations' data='wnSqZjMAAAAJ&hl=zh-CN'></span></strong>
+[**Project**](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=wnSqZjMAAAAJ&citation_for_view=wnSqZjMAAAAJ:Tyk-4Ss8FVUC) <strong>International Symposium on Circuits and Systems<span class='show_paper_citations' data='wnSqZjMAAAAJ&hl=zh-CN'></span></strong>
 - A Study on Network Traffic Communication Prediction.
 </div>
 </div>
