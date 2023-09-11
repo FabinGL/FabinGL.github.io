@@ -51,7 +51,7 @@ Choujun Zhan,Wei Jiang,**Fabing Lin**, Shuntao Zhang, Bing Li
 </div>
 
 
--Multifactorial Analysis of Regional Disparities Influencing the Propagation Dynamics of COVID-19 Pandemic(**Contributing**)[Sustainable Cities and Society](https://www.sciencedirect.com/journal/sustainable-cities-and-society),Choujun Zhan,**Fabing Lin**,Kaihan Wu,Junhui Lu,Tse.K,**[Sustainable Cities and Society](https://www.sciencedirect.com/journal/sustainable-cities-and-society)**
+- Multifactorial Analysis of Regional Disparities Influencing the Propagation Dynamics of COVID-19 Pandemic(**Contributing**)[Sustainable Cities and Society](https://www.sciencedirect.com/journal/sustainable-cities-and-society),Choujun Zhan,**Fabing Lin**,Kaihan Wu,Junhui Lu,Tse.K,**[Sustainable Cities and Society](https://www.sciencedirect.com/journal/sustainable-cities-and-society)**
 
 ---
 
