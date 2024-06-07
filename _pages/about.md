@@ -24,7 +24,7 @@ I graduated from [Nanfang College of Sun Yat-sen University](https://www.nfu.edu
 You can find my CV here: [Fabing's Curriculum Vitae](images/LFB_Academic_en_20230502.pdf).
 
 # 🔥 News
-- *2023.06*: &nbsp;📖 Employed at [China Mobile Communications Group Design Institute Co., Ltd. Fujian Branch](http://cmri.chinamobile.com/)
+- *2023.06*: &nbsp;📖 Employed at [China Mobile Communications Group Design Institute Co., Ltd. Fujian Branch]
 - *2023.05*: &nbsp;🎉 A conference paper was published at the [2023 IEEE International Symposium on Circuits and Systems (ISCAS)](https://iscas2023.org/)
 - *2023.04*: &nbsp; [3D-space Co., Ltd.](http://xn--ehq269cgqo6ge.xn--fiqs8s/index.php?sn=solution&fid=51) conducts interdisciplinary research on atmospheric science and machine learning.
 - *2022.11*: &nbsp;🔥 A journal paper was published in [Neural Computing and Applications](https://www.springer.com/journal/521)
@@ -93,7 +93,7 @@ Wei Jiang, Yuxia Fu, **Fabing Lin**, Jing Liu, Choujun Zhan
 - *2020* &nbsp;📖 Software copyright, Data Analysis and Prediction System of Chinese Movie Box Office Based on Machine Learning.
 
 # 📖 Work Experience
-- *2023.06-Present*, &nbsp;🎉 Employed at [China Mobile Communications Group Design Institute Co., Ltd. Fujian Branch](http://cmri.chinamobile.com/)
+- *2023.06-Present*, &nbsp;🎉 Employed at [China Mobile Communications Group Design Institute Co., Ltd. Fujian Branch]
 - *2023.04-2023.06*, &nbsp;☁️ [3D-space Co., Ltd.](http://xn--ehq269cgqo6ge.xn--fiqs8s/index.php?sn=solution&fid=51) conducts interdisciplinary research on atmospheric science and machine learning.
 
 ---
